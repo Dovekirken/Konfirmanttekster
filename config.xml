@@ -3,14 +3,14 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.konfirmanttekster.www"
         versionCode = "20" 
-        version     = "1.4.00" >
+        version     = "1.4.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Konfirmanttekster</name>
+    <name>Konfirmanttekster16</name>
 
     <description>
-       Grunnleggende tekster paa norsk tegnspråk
+       Grunnleggende tekster pa NTS
     </description>
     
       <!-- iPhone 6 / 6+ -->
