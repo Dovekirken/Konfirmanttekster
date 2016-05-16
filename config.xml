@@ -2,15 +2,15 @@
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.konfirmanttekster.www"
-        versionCode = "19" 
-        version     = "1.3.11" >
+        versionCode = "20" 
+        version     = "1.4.00" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Konfirmanttekster16</name>
+    <name>Konfirmanttekster 2016</name>
 
     <description>
-       Grunnleggende tekster
+       Grunnleggende tekster paa norsk tegnspråk
     </description>
     
       <!-- iPhone 6 / 6+ -->
