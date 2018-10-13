@@ -2,8 +2,8 @@
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.konfirmanttekster.www"
-        versionCode = "26" 
-        version     = "1.9.1" >
+        versionCode = "27" 
+        version     = "1.9.2" >
 
     <!-- versionCode is optional and Android only -->
 
@@ -14,8 +14,8 @@
     </description>
 
       
-    <preference name="android-minSdkVersion" value="8" />
-    <preference name="android-targetSdkVersion" value="26" />
+  <preference name="android-minSdkVersion" value="8" />
+  <preference name="android-targetSdkVersion" value="26" />
  <icon src="ldpi.png" density="ldpi" />
  <icon src="mdpi.png" density="mdpi" />
  <icon src="hdpi.png" density="hdpi" />
