@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.konfirmanttekster.www"
-        versionCode = "27" 
-        version     = "1.9.2" >
+        id          = "no.dovekirken.www"
+        versionCode = "28" 
+        version     = "1.9.3" >
 
     <!-- versionCode is optional and Android only -->
 
